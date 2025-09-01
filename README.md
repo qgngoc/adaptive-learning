@@ -6,6 +6,7 @@ Applying adaptive learning to train an AI Agent persuading a user to play an FPS
 1. Activate enviroment (`conda` or `venv`)
 
 2. Install packages
+
 ```bash
 pip install -r requirements.txt
 ```
