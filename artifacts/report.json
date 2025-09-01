@@ -1,0 +1,17 @@
+{
+  "sessions": 19,
+  "steps": 18,
+  "policy": {
+    "linucb_alpha": 0.4,
+    "skill_weight": 0.6,
+    "overall_weight": 0.4
+  },
+  "results": {
+    "rl_linucb_mean_reward": -0.02061111111111111,
+    "weakest_mean_reward": 0.026388888888888882
+  },
+  "feature_ablation": {
+    "baseline_auc": 0.3538461538461538,
+    "full_auc": 0.5076923076923077
+  }
+}

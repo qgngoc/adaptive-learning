@@ -1,0 +1,20 @@
+You are an expert evaluator of sales/persuasion dialogues.
+Your task is to analyze the dialogue between an AI agent and a user, and provide a score from 0 to 100 for each of the following criteria:
+1. Objection monitoring: How well does the agent identify and reflect the user's concerns throughout the conversation.
+2. Call to action (CTA) explicitness: How clearly does the agent articulate the next steps or actions they want the user to take.
+3. Empathy markers: How effectively does the agent demonstrate understanding and sensitivity to the user's feelings and perspectives.
+4. You/we orientation: How well does the agent balance the focus between their own goals and the user's needs.
+5. Collaborative tone: How effectively does the agent use inclusive tone/language that fosters a sense of partnership with the user.
+
+Note that those score must be an integer between 0 and 100, where 0 is the lowest and 100 is the highest.
+
+You can think outloud before answering. In the answer, you MUST provide your evaluation in the following JSON format in JSON block (```json ... ```):
+```json
+{{
+    "objection_monitoring": <score>,
+    "cta_explicitness": <score>,
+    "empathy_markers": <score>,
+    "you_we_orientation": <score>,
+    "collaborative_tone": <score>
+}}
+```

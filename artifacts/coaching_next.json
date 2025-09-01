@@ -1,0 +1,434 @@
+[
+  {
+    "step": 0,
+    "session_id": "952c4d47-010f-426c-93ea-34b1c6cdb802",
+    "next_session_id": "b8857af6-5547-410f-bd90-eec672d65f65",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 1,
+    "session_id": "b8857af6-5547-410f-bd90-eec672d65f65",
+    "next_session_id": "16eb85dd-22d3-4cff-ac37-6c2ecb603a43",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 2,
+    "session_id": "16eb85dd-22d3-4cff-ac37-6c2ecb603a43",
+    "next_session_id": "cbc0e9ba-2cef-4bed-8da0-bb184bba8464",
+    "focus": "friendliness",
+    "why": "Practicing friendliness builds trust and rapport quickly, making clients feel comfortable and valued. It encourages open communication and fosters long-term relationships.",
+    "exercises": [
+      "Smile genuinely during every interaction, even before speaking.",
+      "Share a small personal detail or compliment to create warmth.",
+      "Practice active listening by paraphrasing what the client says with a friendly tone."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant client unsure about proceeding with the service.",
+      "opening": "I'm not sure if this is the right fit for me.",
+      "followups": [
+        "What concerns do you have that I can address?",
+        "Can I share how other clients in similar situations felt initially but found value?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Maintain friendliness while handling a difficult or frustrated client.",
+      "Incorporate humor or light-hearted comments without crossing professional boundaries."
+    ]
+  },
+  {
+    "step": 3,
+    "session_id": "cbc0e9ba-2cef-4bed-8da0-bb184bba8464",
+    "next_session_id": "5118e66d-3a08-4963-ace0-a2df88879dad",
+    "focus": "clarity",
+    "why": "Clear communication ensures your message is understood, reducing misunderstandings and building trust. Practicing clarity helps you convey value effectively and close more deals.",
+    "exercises": [
+      "Summarize your product's main benefit in one sentence, then practice explaining it to a colleague.",
+      "Record a 30-second pitch, then review it to identify any confusing or vague parts.",
+      "Role-play explaining a complex feature to a non-expert, focusing on simple language."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect unfamiliar with technical details, needing straightforward explanations.",
+      "opening": "I'm not sure I understand how this product works. Can you clarify?",
+      "followups": [
+        "Can you tell me which part is confusing so I can explain it better?",
+        "Would you like me to give a quick example to illustrate how it benefits you?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Reduce the time for your explanation to 15 seconds, focusing on brevity.",
+      "Explain a complex feature without using any technical jargon."
+    ]
+  },
+  {
+    "step": 4,
+    "session_id": "5118e66d-3a08-4963-ace0-a2df88879dad",
+    "next_session_id": "81460ac2-721d-4226-8396-a487bcdf4bcf",
+    "focus": "clarity",
+    "why": "Clear communication ensures your message is understood, reducing misunderstandings and building trust. Practicing clarity helps you convey value effectively and close more deals.",
+    "exercises": [
+      "Summarize your product's main benefit in one sentence, then practice explaining it to a colleague.",
+      "Record a 30-second pitch, then review it to identify any confusing or vague parts.",
+      "Role-play explaining a complex feature to a non-expert, focusing on simple language."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect unfamiliar with technical details, needing straightforward explanations.",
+      "opening": "I'm not sure I understand how this product works. Can you clarify?",
+      "followups": [
+        "Can you tell me which part is confusing so I can explain it better?",
+        "Would you like me to give a quick example to illustrate how it benefits you?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Reduce the time for your explanation to 15 seconds, focusing on brevity.",
+      "Explain a complex feature without using any technical jargon."
+    ]
+  },
+  {
+    "step": 5,
+    "session_id": "81460ac2-721d-4226-8396-a487bcdf4bcf",
+    "next_session_id": "13a0b37c-e09a-484b-a741-2bf8d5a7cc3d",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 6,
+    "session_id": "13a0b37c-e09a-484b-a741-2bf8d5a7cc3d",
+    "next_session_id": "71a72b07-475b-49b6-9e78-9b48c3f6d11b",
+    "focus": "friendliness",
+    "why": "Practicing friendliness builds trust and rapport quickly, making clients feel comfortable and valued. It encourages open communication and fosters long-term relationships.",
+    "exercises": [
+      "Smile genuinely during every interaction, even before speaking.",
+      "Share a small personal detail or compliment to create warmth.",
+      "Practice active listening by paraphrasing what the client says with a friendly tone."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant client unsure about proceeding with the service.",
+      "opening": "I'm not sure if this is the right fit for me.",
+      "followups": [
+        "What concerns do you have that I can address?",
+        "Can I share how other clients in similar situations felt initially but found value?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Maintain friendliness while handling a difficult or frustrated client.",
+      "Incorporate humor or light-hearted comments without crossing professional boundaries."
+    ]
+  },
+  {
+    "step": 7,
+    "session_id": "71a72b07-475b-49b6-9e78-9b48c3f6d11b",
+    "next_session_id": "f1d38a3c-f2fb-4c41-b81c-677c43889687",
+    "focus": "clarity",
+    "why": "Clear communication ensures your message is understood, reducing misunderstandings and building trust. Practicing clarity helps you convey value effectively and close more deals.",
+    "exercises": [
+      "Summarize your product's main benefit in one sentence, then practice explaining it to a colleague.",
+      "Record a 30-second pitch, then review it to identify any confusing or vague parts.",
+      "Role-play explaining a complex feature to a non-expert, focusing on simple language."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect unfamiliar with technical details, needing straightforward explanations.",
+      "opening": "I'm not sure I understand how this product works. Can you clarify?",
+      "followups": [
+        "Can you tell me which part is confusing so I can explain it better?",
+        "Would you like me to give a quick example to illustrate how it benefits you?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Reduce the time for your explanation to 15 seconds, focusing on brevity.",
+      "Explain a complex feature without using any technical jargon."
+    ]
+  },
+  {
+    "step": 8,
+    "session_id": "f1d38a3c-f2fb-4c41-b81c-677c43889687",
+    "next_session_id": "f1d38a3c-f2fb-4c41-b81c-677c43889687",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 9,
+    "session_id": "f1d38a3c-f2fb-4c41-b81c-677c43889687",
+    "next_session_id": "f1d38a3c-f2fb-4c41-b81c-677c43889687",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 10,
+    "session_id": "f1d38a3c-f2fb-4c41-b81c-677c43889687",
+    "next_session_id": "b4492b1e-20e0-4c69-b41c-494faa72784b",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 11,
+    "session_id": "b4492b1e-20e0-4c69-b41c-494faa72784b",
+    "next_session_id": "81d173a3-4fb3-4584-a372-08733909e3a6",
+    "focus": "friendliness",
+    "why": "Practicing friendliness builds trust and rapport quickly, making clients feel comfortable and valued. It encourages open communication and fosters long-term relationships.",
+    "exercises": [
+      "Smile genuinely during every interaction, even before speaking.",
+      "Share a small personal detail or compliment to create warmth.",
+      "Practice active listening by paraphrasing what the client says with a friendly tone."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant client unsure about proceeding with the service.",
+      "opening": "I'm not sure if this is the right fit for me.",
+      "followups": [
+        "What concerns do you have that I can address?",
+        "Can I share how other clients in similar situations felt initially but found value?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Maintain friendliness while handling a difficult or frustrated client.",
+      "Incorporate humor or light-hearted comments without crossing professional boundaries."
+    ]
+  },
+  {
+    "step": 12,
+    "session_id": "81d173a3-4fb3-4584-a372-08733909e3a6",
+    "next_session_id": "445a29de-c5c5-4789-a1f0-c10f7e8c5373",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 13,
+    "session_id": "445a29de-c5c5-4789-a1f0-c10f7e8c5373",
+    "next_session_id": "e9fe9e34-3a22-4f3c-a913-5ae9f0d0d608",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 14,
+    "session_id": "e9fe9e34-3a22-4f3c-a913-5ae9f0d0d608",
+    "next_session_id": "06532a4d-84e8-4565-9ffa-4287e3a4cdd9",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 15,
+    "session_id": "06532a4d-84e8-4565-9ffa-4287e3a4cdd9",
+    "next_session_id": "7846c0d7-9354-44db-b614-0b9ca0b00a39",
+    "focus": "friendliness",
+    "why": "Practicing friendliness builds trust and rapport quickly, making clients feel comfortable and valued. It encourages open communication and fosters long-term relationships.",
+    "exercises": [
+      "Smile genuinely during every interaction, even before speaking.",
+      "Share a small personal detail or compliment to create warmth.",
+      "Practice active listening by paraphrasing what the client says with a friendly tone."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant client unsure about proceeding with the service.",
+      "opening": "I'm not sure if this is the right fit for me.",
+      "followups": [
+        "What concerns do you have that I can address?",
+        "Can I share how other clients in similar situations felt initially but found value?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Maintain friendliness while handling a difficult or frustrated client.",
+      "Incorporate humor or light-hearted comments without crossing professional boundaries."
+    ]
+  },
+  {
+    "step": 16,
+    "session_id": "7846c0d7-9354-44db-b614-0b9ca0b00a39",
+    "next_session_id": "f3adb60c-b20b-4301-b9da-4f9595fb8eac",
+    "focus": "call_to_action",
+    "why": "A strong call-to-action (CTA) guides prospects toward the next step, increasing conversion rates. Practicing clear CTAs builds confidence in directing conversations effectively.",
+    "exercises": [
+      "Write three different CTAs for a product pitch and practice delivering them aloud.",
+      "Role-play a call with a colleague, focusing on ending with a specific CTA like scheduling a follow-up.",
+      "Record your CTA and review it to ensure clarity, confidence, and urgency."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect interested in your service but unsure about the next step.",
+      "opening": "They ask, 'What should I do next?'",
+      "followups": [
+        "Ask, 'Would you like to schedule a quick demo this week?'",
+        "Prompt, 'Can I send you some additional information to review before our next call?'"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Practice delivering your CTA in a high-pressure scenario with distractions.",
+      "Use a less direct or more subtle CTA to see if you can still motivate action."
+    ]
+  },
+  {
+    "step": 17,
+    "session_id": "f3adb60c-b20b-4301-b9da-4f9595fb8eac",
+    "next_session_id": "f193258a-c503-41e1-b2b4-fc0d9209ec9d",
+    "focus": "clarity",
+    "why": "Clear communication ensures your message is understood, reducing misunderstandings and building trust. Practicing clarity helps you convey value effectively and close more deals.",
+    "exercises": [
+      "Summarize your product's main benefit in one sentence, then practice explaining it to a colleague.",
+      "Record a 30-second pitch, then review it to identify any confusing or vague parts.",
+      "Role-play explaining a complex feature to a non-expert, focusing on simple language."
+    ],
+    "scenario_stub": {
+      "persona": "A hesitant prospect unfamiliar with technical details, needing straightforward explanations.",
+      "opening": "I'm not sure I understand how this product works. Can you clarify?",
+      "followups": [
+        "Can you tell me which part is confusing so I can explain it better?",
+        "Would you like me to give a quick example to illustrate how it benefits you?"
+      ]
+    },
+    "difficulty_upgrades": [
+      "Reduce the time for your explanation to 15 seconds, focusing on brevity.",
+      "Explain a complex feature without using any technical jargon."
+    ]
+  }
+]
