@@ -18,10 +18,10 @@ pip install -r requirements.txt
 
 ## Model use 
 
-1. LLM
+1. **LLM**
 - Model: GPT-4.1-nano
 - Temperature: 0.01
 
-2. Binary Classification Model (To evaluate feature usefulness)
+2. **Binary Classification Model (To evaluate feature usefulness)**
 - Model: LogisticRegression
 - Evaluation metric: AUC
