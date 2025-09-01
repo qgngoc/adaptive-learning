@@ -11,9 +11,11 @@ Applying adaptive learning to train an AI Agent persuading a user to play an FPS
 pip install -r requirements.txt
 ```
 
-2. Create a `.env` file based on `.env.example` and replace your OpenAI API key.
+3. Create a `.env` file based on `.env.example` and replace your OpenAI API key.
 
-3. Run all cells in `main.ipynb` file.
+4. Attached `sanitized-sample.json` file to the path `artifacts/data/sanitized-sample.json`
+
+5. Run all cells in `main.ipynb` file.
 
 
 ## Model use 
