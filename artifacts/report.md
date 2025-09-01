@@ -10,7 +10,7 @@ Results:
 
 Feature ablation:
 - Baseline only: AUC=0.36
-- + LLM features: AUC=0.51
+- LLM features: AUC=0.51
 
 Example coaching:
 t=7: clarity | low clarity score (0.11)
