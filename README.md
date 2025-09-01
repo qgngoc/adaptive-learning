@@ -3,19 +3,25 @@ Applying adaptive learning to train an AI Agent persuading a user to play an FPS
 
 ## How to run 
 
-1. Activate enviroment (`conda` or `venv`)
+1. Clone the repository
+```bash
+git clone https://github.com/qgngoc/adaptive-learning.git
+cd adaptive-learning
+```
 
-2. Install packages
+2. Activate enviroment (`conda` or `venv`)
+
+3. Install packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file based on `.env.example` and replace your OpenAI API key.
+4. Create a `.env` file based on `.env.example` and replace your OpenAI API key.
 
-4. Attached `sanitized-sample.json` file to the path `artifacts/data/sanitized-sample.json`
+5. Attached `sanitized-sample.json` file to the path `artifacts/data/sanitized-sample.json`
 
-5. Run all cells in `main.ipynb` file.
+6. Run all cells in `main.ipynb` file.
 
 
 ## Model use 
